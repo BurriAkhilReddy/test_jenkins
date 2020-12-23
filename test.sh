@@ -1,1 +1,2 @@
-date
+date;
+ls -a
